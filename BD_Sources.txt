@@ -1,0 +1,5 @@
+BD - MRI
+https://www.kaggle.com/datasets/aryansinghal10/alzheimers-multiclass-dataset-equal-and-augmented
+
+BD - OSA
+https://data.mendeley.com/datasets/dms8vyw4j9/1
